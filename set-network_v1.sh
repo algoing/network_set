@@ -1,5 +1,6 @@
 #!/bin/bash
-#Filename:
+#Filename:test
+#set the network
 
 interface_info=/root/interface_info.txt
 
